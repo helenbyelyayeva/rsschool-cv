@@ -2,7 +2,8 @@
 1. Helen Byelyayeva 
 2. Contact details :
     1. Email:l.byelyayeva@gmail.com 
-    2. Telegram : https://t.me/HelenByelyayeva
+    2. Side email:bieliaieva.7384661@stud.op.edu.ua
+    3. Telegram : https://t.me/HelenByelyayeva
 3. Im a student in the polytechnic university (Odessa,Ukraine).Currently I am taking my last bachelor course. About myself I can say that I am hardworking student, pretty stress resistant  and non-conflict person. As for my dreams and goals I want to travel around the world, want to be able to support myself and my family financially. 
 4. I studied such languages as Java, Python, HTML, PHP and MySQL. 
 5. Latest code examples
