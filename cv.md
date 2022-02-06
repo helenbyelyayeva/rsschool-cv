@@ -115,4 +115,4 @@
 7. For educational purposes I was a part of this project https://github.com/Mariiya/CleaningWebService.git
 8. As have been said before I am taking my last bachelor year 
 9. I've taken couple of Englisch courses. After taking several tests my english level varieties between B2 and C1.
-docs: update cv with additional information
+
